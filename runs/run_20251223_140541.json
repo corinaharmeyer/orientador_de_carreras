@@ -1,0 +1,72 @@
+{
+  "created_at": "2025-12-23T14:05:41.581112",
+  "user_profile": {
+    "interests": [
+      "musica",
+      "produccion",
+      "arte",
+      "filosofia",
+      "ciencia",
+      "matematica"
+    ],
+    "skills": [
+      "office",
+      "produccion_musical",
+      "mezcla_basica",
+      "composicion_musical"
+    ],
+    "math": 2,
+    "communication": 3,
+    "creativity": 3,
+    "people_work": 1,
+    "teamwork": 2
+  },
+  "recommendations": [
+    {
+      "career": "Diseño Gráfico",
+      "score": 0.3339877321606155,
+      "reasons": [
+        "Intereses en común: arte"
+      ],
+      "cautions": [
+        "Pocas habilidades en común (podrías necesitar aprender más)."
+      ]
+    },
+    {
+      "career": "Producción Audiovisual",
+      "score": 0.07891814893221082,
+      "reasons": [],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte).",
+        "Pocas habilidades en común (podrías necesitar aprender más)."
+      ]
+    },
+    {
+      "career": "Ciencia de Datos",
+      "score": 0.07418011102528389,
+      "reasons": [],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte).",
+        "Pocas habilidades en común (podrías necesitar aprender más)."
+      ]
+    },
+    {
+      "career": "Arquitectura",
+      "score": 0.07418011102528389,
+      "reasons": [],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte).",
+        "Pocas habilidades en común (podrías necesitar aprender más)."
+      ]
+    },
+    {
+      "career": "Ingeniería en Sistemas",
+      "score": 0.07418011102528389,
+      "reasons": [],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte).",
+        "Pocas habilidades en común (podrías necesitar aprender más)."
+      ]
+    }
+  ]
+}

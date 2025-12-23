@@ -1,0 +1,69 @@
+{
+  "created_at": "2025-12-17T21:26:20.278948",
+  "user_profile": {
+    "interests": [
+      "python_m_pip_install_streamlit"
+    ],
+    "skills": [
+      "python"
+    ],
+    "math": 1,
+    "communication": 1,
+    "creativity": 1,
+    "people_work": 1,
+    "teamwork": 1
+  },
+  "recommendations": [
+    {
+      "career": "Data Visualization Specialist",
+      "score": 0.32036708924800084,
+      "reasons": [
+        "Habilidades en común: python"
+      ],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte).",
+        "Diferencia fuerte en creatividad (vos: 1, carrera: 3)."
+      ]
+    },
+    {
+      "career": "DevOps Engineer",
+      "score": 0.2991801110252839,
+      "reasons": [
+        "Habilidades en común: python"
+      ],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte)."
+      ]
+    },
+    {
+      "career": "Backend Developer",
+      "score": 0.2991801110252839,
+      "reasons": [
+        "Habilidades en común: python"
+      ],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte)."
+      ]
+    },
+    {
+      "career": "Software Engineer",
+      "score": 0.2991801110252839,
+      "reasons": [
+        "Habilidades en común: python"
+      ],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte)."
+      ]
+    },
+    {
+      "career": "Data Analyst",
+      "score": 0.2951857603000028,
+      "reasons": [
+        "Habilidades en común: python"
+      ],
+      "cautions": [
+        "Pocos intereses en común (podría no motivarte)."
+      ]
+    }
+  ]
+}
